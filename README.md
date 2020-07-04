@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Support & Resistance
+
+
+
+Trading tanpa konsep support dan resistance akan memperkecil resiko trading yang besar, karena dalam konsep ini diperkenalkan bahwa sebenarnya, harga suatu instrumen keuangan mempunyai level-level tertentu yang bisa dijadikan ajuan untuk trading sehingga memudahkan menentukan acuan harga.
+
+![sr1](https://user-images.githubusercontent.com/27078712/86505567-80dd2a00-bdf0-11ea-90ff-9618a920d915.png)
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/sr-trading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Pengertian Support & Resistance
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
