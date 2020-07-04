@@ -67,8 +67,15 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
 * Merupakan angka bulat dan merupakan level psikologis di dalam instrumen pasar dan dipergunakan untuk menentukan titik support dan resistance
 * Contohnya adalah EUR/USD dengan level 1.30000, atau 1.40000
 
+**5-Moving Average**
 
-**5-Pivot Point**
+
+
+**6-Bollinger Band**
+
+
+
+**7-Pivot Point**
     
 
 
