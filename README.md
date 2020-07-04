@@ -30,6 +30,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     
 > Jika harga menembus level resistance, maka kemungkinan harga akan turun, kareba level resistance jika ditembus akan menjadi level support baru
 
+### Cara mementukan titik support & resistance
+
+Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diantaranya yang sering dipakai adalah sebagi berikut:
+
+1. Titik Tertinggi (Top) dan Titik Terendah (Bottom)
+
+* Cara ini merupakan cara yang paling mudah. Hanya dengan menarik garis horizantal dimana titik support dan resistance berada di dalam timeframe (jangka waktu)  tertentu, maka akan didapat sebuah titik dimana harga tidak bisa naik lagi (resistance) atau harga bisa menembus angka tertentu (support)
+* Semakin timeframe (jangka waktu) yang dipakai, maka akan semakin valid titik harganya
+
+
+2. Trendline (Garis Trend)
+
+* sdd
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
