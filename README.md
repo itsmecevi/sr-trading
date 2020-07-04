@@ -65,7 +65,6 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
 **4-Round Number (angka bulat)**
 
 * Merupakan angka bulat dan merupakan level psikologis di dalam instrumen pasar dan dipergunakan untuk menentukan titik support dan resistance
-
 * Contohnya adalah EUR/USD dengan level 1.30000, atau 1.40000
 
 
