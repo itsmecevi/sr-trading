@@ -23,10 +23,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Definisi supply dan demand:** 
 
 > Support-> penawaran > permintaan, harga akan naik
-Jika harga menembus level support, maka kemungkinan harga akan naik, karena level support jika ditembus akan menjadi level resistance baru
 
-> Resistance-> penawaran<permintaan, harga akan turun
-Jika harga menembus level resistance, maka kemungkinan harga akan turun, kareba level resistance jika ditembus akan menjadi level suport baru
+    Jika harga menembus level support, maka kemungkinan harga akan naik, karena level support jika ditembus akan menjadi level resistance baru
+
+> Resistance-> penawaran<permintaan, harga akan turun 
+    
+    Jika harga menembus level resistance, maka kemungkinan harga akan turun, kareba level resistance jika ditembus akan menjadi level suport baru
 
 
 
