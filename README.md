@@ -34,15 +34,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diantaranya yang sering dipakai adalah sebagi berikut:
 
-1. Titik Tertinggi (Top) dan Titik Terendah (Bottom)
+1-Titik Tertinggi (Top) dan Titik Terendah (Bottom)
 
 * Cara ini merupakan cara yang paling mudah. Hanya dengan menarik garis horizantal dimana titik support dan resistance berada di dalam timeframe (jangka waktu)  tertentu, maka akan didapat sebuah titik dimana harga tidak bisa naik lagi (resistance) atau harga bisa menembus angka tertentu (support)
 * Semakin timeframe (jangka waktu) yang dipakai, maka akan semakin valid titik harganya
 
 
-2. Trendline (Garis Trend)
+2-Trendline (Garis Trend)
 
-* sdd
+* Trendline dapat berlaku sebagai support dan resistance
+* Hubungkan minimal 2 titik lembah (Bottom) atau 2 titik bukit (Top) untuk membuat sebuah trend
+
+
 
 
 
