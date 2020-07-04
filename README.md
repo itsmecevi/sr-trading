@@ -1,4 +1,4 @@
-## Support & Resistance
+# Support & Resistance
 
 
 
