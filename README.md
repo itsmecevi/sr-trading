@@ -13,6 +13,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Pengertian Support & Resistance
 
+
+**Definisi teknis:**
+
+* Support-> batas level dalam trading dimana mendukung harga untuk naik (menolak untuk turun)
+* Resistance-> batas level dalam trading dimana menolak harga untuk naik (mendukung untuk turun)
+* Jika level support dan resistance dikombinasikan dengan teori candlestick, maka kecenderungan pasar selanjutnya bisa kita fahami
+
+**Definisi supply dan demand:** 
+
+> Support-> penawaran > permintaan, harga akan naik
+Jika harga menembus level support, maka kemungkinan harga akan naik, karena level support jika ditembus akan menjadi level resistance baru
+
+> Resistance-> penawaran<permintaan, harga akan turun
+Jika harga menembus level resistance, maka kemungkinan harga akan turun, kareba level resistance jika ditembus akan menjadi level suport baru
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
