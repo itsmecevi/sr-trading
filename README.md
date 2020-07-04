@@ -46,35 +46,30 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
 * Hubungkan minimal 2 titik lembah (Bottom) atau 2 titik bukit (Top) untuk membuat sebuah trend
 
 
+3. Fibonacci Retracement
+
+* Fibonacci retracement bisa dignakan sebagai titik level support dan resistance
+* Fibonacci memiliki level-level yang biasa digunakan yakni:
+    * Level 0.0%
+    * Level 23.6%
+    * Level 38.2%
+    * Level 50.0%
+    * Level 61.8% (titik terkuat untuk bouncing dan reversal)
+    * Level 76.4% (titik siap-siap)
+    * Level 100.0%
+ * Penggunaan Fibonacci retracement adalah mencari peluang buy ketika harga berada di titik support. Sebaliknya, kita bisa mencari peluang sell ketika harga berada di kisaran titik resistance. Strategi tersebut adalah strategi bouncing pada saat posisi harga naik, dan strategi reversal pada saat harga turun
+ * Cara menarik garis Fibonacci Retracement:
+    * Uptrend (tren naik)-> menarik Fibonacci retracement dari swing low ke swing high
+    * Downtrend (tren turun)-> menarik Fibonacci retracement dari swing high ke swing low
+
+4. Round Number (angka bulat)
+
+* Merupakan angka bulat dan merupakan level psikologis di dalam instrumen pasar dan dipergunakan untuk menentukan titik support dan resistance
+
+* Contohnya adalah EUR/USD dengan level 1.30000, atau 1.40000
 
 
+5. Pivot Point
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsmecevi/sr-trading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
