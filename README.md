@@ -34,19 +34,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diantaranya yang sering dipakai adalah sebagi berikut:
 
-1-Titik Tertinggi (Top) dan Titik Terendah (Bottom)
+**1-Titik Tertinggi (Top) dan Titik Terendah (Bottom)**
 
 * Cara ini merupakan cara yang paling mudah. Hanya dengan menarik garis horizantal dimana titik support dan resistance berada di dalam timeframe (jangka waktu)  tertentu, maka akan didapat sebuah titik dimana harga tidak bisa naik lagi (resistance) atau harga bisa menembus angka tertentu (support)
 * Semakin timeframe (jangka waktu) yang dipakai, maka akan semakin valid titik harganya
 
 
-2-Trendline (Garis Trend)
+**2-Trendline (Garis Trend)**
 
 * Trendline dapat berlaku sebagai support dan resistance
 * Hubungkan minimal 2 titik lembah (Bottom) atau 2 titik bukit (Top) untuk membuat sebuah trend
 
 
-3. Fibonacci Retracement
+**3-Fibonacci Retracement**
 
 * Fibonacci retracement bisa dignakan sebagai titik level support dan resistance
 * Fibonacci memiliki level-level yang biasa digunakan yakni:
@@ -62,14 +62,14 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
     * Uptrend (tren naik)-> menarik Fibonacci retracement dari swing low ke swing high
     * Downtrend (tren turun)-> menarik Fibonacci retracement dari swing high ke swing low
 
-4. Round Number (angka bulat)
+**4-Round Number (angka bulat)**
 
 * Merupakan angka bulat dan merupakan level psikologis di dalam instrumen pasar dan dipergunakan untuk menentukan titik support dan resistance
 
 * Contohnya adalah EUR/USD dengan level 1.30000, atau 1.40000
 
 
-5. Pivot Point
+**5-Pivot Point**
     
 
 
