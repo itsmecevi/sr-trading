@@ -163,6 +163,9 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 
     
     * Exit
+![sr17](https://user-images.githubusercontent.com/27078712/86530702-1bb73080-bee5-11ea-8598-a75f1751f9d9.PNG)
+![sr16](https://user-images.githubusercontent.com/27078712/86530704-21ad1180-bee5-11ea-8e9c-96aa9fd099cd.PNG)
+
 
 
 
