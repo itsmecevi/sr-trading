@@ -142,6 +142,11 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 
 **6-Bollinger Band**
 
+* Bollinger Band merupakan salah satu indikator yang dibuat oleh seorang analis pasar keuangan John Bollinger
+* Digunakan untuk mengukur volatilitas pasar dan dan memperkirakan range (rentang) pergerakan harga pasar
+![sr8](https://user-images.githubusercontent.com/27078712/86529030-7cd80780-bed7-11ea-81b9-105c93c56006.PNG)
+* BB memiliki 3 garis, yaitu low BB, mid BB, dan top BB
+![sr9](https://user-images.githubusercontent.com/27078712/86529043-a8f38880-bed7-11ea-89c6-34c2c0469015.PNG)
 
 
 
