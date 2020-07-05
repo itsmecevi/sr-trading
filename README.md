@@ -114,7 +114,17 @@ Berikut merupakan setting SMA yang paling banyak digunakan:
 
 **Exponential Moving Average (EMA):**
 
+* Pembahasan teknis detail EMA tidak akan dibahasa disini, karena fokus kita bukanlah membuat sistem EMA yang baru, melainkan memakai EMA dengan sedikit pemahaman konsep yang baik
+* Pegerakan EMA lebih agresif (sensitif) daripada SMA. EMA lebih menggambarkan apa yang terjadi di pasar saat ini
+![sr5](https://user-images.githubusercontent.com/27078712/86527793-798b4e80-becc-11ea-806d-28bb06946b3b.PNG)
+
+
 **SMA atau EMA?**
+
+SMA maupun EMA mempunyai kekurangan dan kelebihan masing-masing, mari kita bahas satu persatu:
+
+* SMA lebih lamban, tetapi akurasinya lbh bagus, profit oriented
+* EMA lebih cepat, tetapi sinyal yang muncul banyak "fake signal"
 
 **Crossover**
 
