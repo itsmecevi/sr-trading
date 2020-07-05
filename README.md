@@ -140,14 +140,9 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 
 
 
-
-
-
-
-
-
-
 **6-Bollinger Band**
+
+
 
 
 
