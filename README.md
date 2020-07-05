@@ -171,6 +171,30 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 
 
 **7-Pivot Point**
+
+* Pivot point bukan merupakan sebuah indikator, melainkan cabang dari analisa teknikal
+* Pivot point menghitung titik support dan resistance dengan perhitungan tertentu
+* Ada beberapa cara untuk menghitung pivot point yang biasa digunakan oleh para trader:
+    * Classic
+    * Fibonacci
+    * Camarilla
+    * Woodie's
+    * DeMark's
+   
+____
+
+**Classic:**
+    
+**Fibonacci:**
+
+**Camarilla:**
+
+**Woodie's:**
+
+
+**DeMark's:**
+
+
     
 
 
