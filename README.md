@@ -153,7 +153,7 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 ![sr11](https://user-images.githubusercontent.com/27078712/86529884-7bf6a400-bede-11ea-9a0c-cdb9368ca6fc.PNG)
 
     * Reversal
-![sr12](https://user-images.githubusercontent.com/27078712/86530549-cc243500-bee3-11ea-9ebb-b49f7ec43244.PNG)
+![sr12](https://user-images.githubusercontent.com/27078712/86530720-53be7380-bee5-11ea-93f2-9aba53013630.PNG)
 ![sr13](https://user-images.githubusercontent.com/27078712/86530555-d1817f80-bee3-11ea-9af2-3642f534156a.PNG)
 
     
