@@ -69,6 +69,13 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
 
 **5-Moving Average**
 
+* Analisa teknikal bukanlaa alat untuk meramal masa depan dan selalu tepat
+* Analisa teknikal hanyalah sebuah metode pendekatan untuk melihat kecenderungan pergerakan harga
+* Moving Average (MA) memperhalus pergerakan dalam waktu rentang tertentu, sehingga mempermudah melihat pergerakan harga dengan memperjelas tren
+* Contoh: MA50-> mengambil 50 grafik terakhir ke belakang, lalu membuatnya menjadi sebuah garis seperti gambar di bawah ini
+![sr3](https://user-images.githubusercontent.com/27078712/86524782-f99fbd00-bea8-11ea-8bc5-e5152e2707d8.PNG)
+
+
 
 
 **6-Bollinger Band**
