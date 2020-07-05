@@ -147,6 +147,16 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 ![sr8](https://user-images.githubusercontent.com/27078712/86529030-7cd80780-bed7-11ea-81b9-105c93c56006.PNG)
 * BB memiliki 3 garis, yaitu low BB, mid BB, dan top BB
 ![sr9](https://user-images.githubusercontent.com/27078712/86529043-a8f38880-bed7-11ea-89c6-34c2c0469015.PNG)
+* Bollinger band memiliki 4 kriteria untuk sebagai support dan resistance yang dinamis di dalam trading:
+    * Squeeze 
+![sr10](https://user-images.githubusercontent.com/27078712/86529876-76995980-bede-11ea-8b35-d3ce46361b67.PNG)
+![sr11](https://user-images.githubusercontent.com/27078712/86529884-7bf6a400-bede-11ea-9a0c-cdb9368ca6fc.PNG)
+
+    * Reversal
+    
+    * Jajaran/dataran
+    
+    * Exit
 
 
 
