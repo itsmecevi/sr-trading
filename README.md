@@ -82,6 +82,20 @@ Ada banyak cara yang digunakan trader untuk menghitung titik ini, beberapa diant
     * Simple Moving Average (SMA)
     * Exponential Moving Average (EMA)
 
+_____
+
+
+**Simple Moving Average (SMA):**
+
+**Exponential Moving Average (EMA):**
+
+**SMA atau EMA?**
+
+**Crossover**
+
+
+
+
 
 **6-Bollinger Band**
 
