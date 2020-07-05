@@ -87,6 +87,31 @@ _____
 
 **Simple Moving Average (SMA):**
 
+Merupakan MA paling sederhana dengan konsep menjumlahkan X chart sebelumnya lalu dibagi dengan angka X tersebut. Sebagai contoh, jika pada timeframe 1 jam kita menggunakan MA50, artinya 50 chart per jam kebelakang lalu dibagi dengan 50 akan menghasilkan angka tertentu. Nah perhitungan nilainya bisa diambil dari titik tertinggi (high), titik terendah (low), harga pembukaan (open), atau harga penutupan (close). Semakin besar periode X semakin "halus" pula MA(X) yang dihasillan seperti contoh berikut ini:
+![sr4](https://user-images.githubusercontent.com/27078712/86526557-c1f03f80-bebf-11ea-86e5-4629502ca99b.PNG)
+
+Gambar diatas menunjukan bahwa:
+* MA20 lebih pendek, dan lebih cepat bereaksi
+* MA50 lebih panjang dan "halus", lebih lamban bereaksi
+
+Berikut merupakan setting SMA yang paling banyak digunakan:
+* 50
+* 100
+* 200
+* SMA-200
+* MA-5 (sepekan)
+* MA-20 (sebulan)
+* MA-60 (3 bulan)
+* MA-20 dan MA-50
+* MA-20 dan MA-100
+* MA-20 dan MA-200
+* MA-50 dan MA-200
+* Semakin pendek period X, maka makin rendah timeframe aplikasinya, dan makin banyak pula sinyal trading yang akan diperoleh
+
+
+
+
+
 **Exponential Moving Average (EMA):**
 
 **SMA atau EMA?**
