@@ -157,7 +157,10 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 ![sr13](https://user-images.githubusercontent.com/27078712/86530555-d1817f80-bee3-11ea-9af2-3642f534156a.PNG)
 
     
-    * Jajaran/dataran
+    * Jajaran
+![sr14](https://user-images.githubusercontent.com/27078712/86530625-64221e80-bee4-11ea-815a-f7a249f3c1a0.PNG)
+![sr15](https://user-images.githubusercontent.com/27078712/86530632-6edcb380-bee4-11ea-9e2f-b54e43e57f0d.PNG)
+
     
     * Exit
 
