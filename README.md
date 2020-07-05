@@ -135,7 +135,7 @@ Pasangan MA yang sering dipakai adalah sebagai berikut:
 * MA-20 dan MA-200
 * MA-50 dan MA-200
 
-Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yang melewati chart, sedangkan yang jadi patokan crossover adalah MA-20 yang bergerak ke bawah atau arah sell seperti gambar di bawah ini:
+Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yang melewati chart seperti gambar di bawah:
 ![sr7](https://user-images.githubusercontent.com/27078712/86528151-ab51e480-becf-11ea-8ab6-9cfc5e7756c6.PNG)
 
 
