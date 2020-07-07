@@ -180,6 +180,14 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
     * Camarilla
     * Woodie's
     * DeMark's
+    * Floor
+    
+Sebelum membahas masing-masing cara perhitungannya, berikut keterang dari beberapa istilah:
+
+High: Harga tertinggi periode sebelumnya
+Low: Harga terendah periode sebelumnya
+Open: Harga pembukaan periode sebelumnya
+Close: Harga penutupan periode sebelumnya
    
 ____
 
@@ -198,23 +206,70 @@ ____
 
  
 
-Keterangan:
 
-High: Harga tertinggi periode sebelumnya
-Low: Harga terendah periode sebelumnya
-Open: Harga pembukaan periode sebelumnya
-Close: Harga penutupan periode sebelumnya
     
 **Fibonacci:**
 
+    PP = (High + Low + Close) / 3
+
+    R3 = PP + ((High – Low) x 1.000)
+    R2 = PP + ((High – Low) x 0.618)
+    R1 = PP + ((High – Low) x 0.382)
+
+    S1 = PP – ((High – Low) x 0.382)
+    S2 = PP – ((High – Low) x 0.618)
+    S3 = PP – ((High – Low) x 1.000)
+
 **Camarilla:**
 
+    PP = (High + Low + Close) / 3
+
+    R4 = Close + ((High - Low) x 1.1/2)
+    R3 = Close + ((High - Low) x 1.1/4)
+    R2 = Close + ((High - Low) x 1.1/6)
+    R1 = Close + ((High - Low) x 1.1/12)
+
+    S1 = Close – ((High - Low) x 1.1/12)
+    S2 = Close – ((High - Low) x 1.1/6)
+    S3 = Close – ((High - Low) x 1.1/4)
+    S4 = Close – ((High - Low) x 1.1/2)
+
 **Woodie's:**
+
+    PP = (High + Low + (Open hari ini * 2)) / 4
+
+    R3 = High + 2 * (PP - Low)
+    R2 = PP + High – Low
+    R1 = (2 X PP) – Low
+
+
+    S1 = (2 X PP) – High
+    S2 = PP – High + Low
+    S3 = Low - 2 * (High - PP)
 
 
 **DeMark's:**
 
+    If Close < Open, then X = High(previous day) + [2 x Low(previous day)] + Close(previous day) If Close > Open, then X = [2 x High(previous day)] + Low(previous day) + Close(previous day)
 
+    If Close = Open, then X = High(previous day) + Low(previous day) + [2 x Close(previous day)]
+
+    Pivot Point (P) = X/4
+
+    Support 1 (S1) = X/2 – High(previous day)
+
+    Resistance 1 (R1) = X/2 – Low(previous day)
     
+**Floor:**
 
+    Pivot Point = [High(previous day) + Low(previous day) + Close(previous day)]/3
+
+    R1 = (2*Pivot Point) – Low(previous day)
+    S1 = (2*Pivot Point) – High(previous day)
+
+    R2 = Pivot Point + (R1 – S1)
+    S2 = Pivot Point – (R1 – S1)
+
+    R3 = Pivot Point + (R2 – S2)
+    S3 = Pivot Point – (R2 – S2)
 
