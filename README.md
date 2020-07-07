@@ -184,6 +184,26 @@ Contoh untuk kasus MA-20 dan MA-50: yang jadi patokan crossover adalah MA-20 yan
 ____
 
 **Classic:**
+
+        Pivot Point (PP) = (High + Low + Close / 3)
+
+        Level Resistance ketiga (R3) = High + 2 x (PP - Low)
+        Level R2 = PP + (High - Low)
+        Level R1 = (2 x PP) - Low
+
+
+        Level Support pertama (S1) = (2 x PP) - High
+        Level S2 = PP - (High - Low)
+        Level S3 = Low - 2 x (High - PP)
+
+ 
+
+Keterangan:
+
+High: Harga tertinggi periode sebelumnya
+Low: Harga terendah periode sebelumnya
+Open: Harga pembukaan periode sebelumnya
+Close: Harga penutupan periode sebelumnya
     
 **Fibonacci:**
 
