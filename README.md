@@ -250,7 +250,8 @@ ____
 
 **DeMark's:**
 
-    If Close < Open, then X = High(previous day) + [2 x Low(previous day)] + Close(previous day) If Close > Open, then X = [2 x High(previous day)] + Low(previous day) + Close(previous day)
+    If Close < Open, then X = High(previous day) + [2 x Low(previous day)] + Close(previous day) 
+    If Close > Open, then X = [2 x High(previous day)] + Low(previous day) + Close(previous day)
 
     If Close = Open, then X = High(previous day) + Low(previous day) + [2 x Close(previous day)]
 
@@ -272,4 +273,8 @@ ____
 
     R3 = Pivot Point + (R2 – S2)
     S3 = Pivot Point – (R2 – S2)
+    
+    
+Metode manapun yang digunakan utuk menentukan titik pivot, tidak ada indikator yang menjamin keberhasilan atau indikator terbaik. Indikator tersebut hanya membantu untuk mengenali kecenderungan pergerakan pasar. Pemahaman trader sendiri lah menentukan keberhasil profit dalam trading, bukan sebuah indikator...
+
 
